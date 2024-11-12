@@ -1,0 +1,34 @@
+ID,Name,Category,sellingPrice,purchasePrice,Quantity,Brand,StationeryType,suitableAge,safetyStandards,Material,Author,ISBN,Year,Genre,Publisher
+1,The Great Gatsby,Book,10.990000,5.990000,8,,,,,,F. Scott Fitzgerald,9780000000000,1925,BookGenre,Scribner
+2,To Kill a Mockingbird,Book,12.500000,7.500000,6,,,,,,Harper Lee,9780000000000,1960,BookGenre,Harper Perennial Modern Classics
+3,1984,Book,14.990000,9.990000,8,,,,,,George Orwell,9780000000000,1949,BookGenre,Signet Classics
+4,Harry Potter and the Sorcerer's Stone,Book,15.990000,10.990000,12,,,,,,J.K. Rowling,9780000000000,1997,BookGenre,Scholastic
+5,The Catcher in the Rye,Book,11.990000,9.990000,4,,,,,,J.D. Salinger,9780000000000,1951,BookGenre,Brown and Company
+6,Lego Star Wars Darth Vader,Toy,29.990000,24.990000,20,LEGO,,5,ASTM F963,Plastic,,,,,
+7,Barbie Dreamhouse,Toy,199.990000,194.990000,8,Mattel,,3,ASTM F963,Plastic,,,,,
+8,Hot Wheels 50 Car Pack,Toy,49.990000,44.990000,16,Mattel,,5,ASTM F963,Plastic,,,,,
+9,Transformers Optimus Prime,Toy,35.990000,30.990000,10,Hasbro,,5,ASTM F963,Plastic,,,,,
+10,Nerf Elite Disruptor,Toy,24.990000,19.990000,24,Hasbro,,9,EN71,Plastic,,,,,
+11,Parker Jotter Pen,Stationery,8.990000,3.990000,28,Parker,pen,,,Metal,,,,,
+12,Moleskine Classic Notebook,Stationery,14.990000,9.990000,40,Moleskine,notebook,,,Paper,,,,,
+13,Staedtler Triplus Fineliner,Stationery,19.990000,14.990000,60,Staedtler,fineliner,,,Plastic,,,,,
+14,Faber-Castell Colored Pencils,Stationery,15.990000,10.990000,44,Faber-Castell,pencil,,,Wood,,,,,
+15,Post-it Super Sticky Notes,Stationery,5.990000,0.990000,68,3M,stickynotes,,,Paper,,,,,
+16,The Alchemist,Book,9.990000,4.990000,24,,,,,,Paulo Coelhoooo,66666666666,1988,BookGenre,HarperOne
+17,Brave New World,Book,12.990000,7.990000,6,,,,,,Aldous Huxley,9780000000000,1932,BookGenre,Harper Perennial Modern Classics
+18,The Lord of the Rings: The Fellowship of the Ring,Book,15.990000,10.990000,8,,,,,,J.R.R. Tolkien,9780000000000,1954,BookGenre,Houghton Mifflin Harcourt
+19,The Hitchhiker's Guide to the Galaxy,Book,11.990000,6.990000,4,,,,,,Douglas Adams,9780000000000,1979,BookGenre,Del Rey
+20,The Da Vinci Code,Book,14.990000,9.990000,4,,,,,,Dan Brown,9780000000000,2003,BookGenre,Doubleday
+21,Rubik's Cube,Toy,19.990000,14.990000,40,Rubik,,5,ASTM F963,Plastic,,,,,
+22,Play-Doh 36-Can Super Color Pack,Toy,29.990000,24.990000,26,Hasbro,,9,EN71,Plastic,,,,,
+23,My Little Pony Rainbow Dash,Toy,12.990000,7.990000,46,Hasbro,,3,ASTM F963,Plastic,,,,,
+24,VTech Kidizoom Camera,Toy,49.990000,44.990000,14,VTech,,3,ASTM F963,Plastic,,,,,
+25,Melissa & Doug Wooden Blocks,Toy,24.990000,19.990000,20,Melissa & Doug,,3,ASTM F963,Wood,,,,,
+26,Bic Cristal Ball Pen,Stationery,0.990000,-4.010000,198,Bic,pen,,,Plastic,,,,,
+27,Leuchtturm1917 Notebook,Stationery,18.990000,13.990000,26,Leuchtturm1917,notebook,,,Paper,,,,,
+28,Pentel EnerGel Liquid Gel Pen,Stationery,2.490000,-2.510000,60,Pentel,pen,,,Plastic,,,,,
+29,Sharpie Permanent,Stationery,8.990000,3.990000,38,Sharpie,sharpie,,,Plastic,,,,,
+30,Quan,Toy,123.000000,118.000000,244,dell,,18,QUAN,plastic,,,,,
+31,qq,Stationery,12.000000,7.000000,24,def,quan,,,wqewe,,,,,
+32,yoyo,Toy,30.000000,25.000000,58,htvc,,3,ASTM F963,plastic,,,,,
+33,dac nhan tam,Book,20.000000,15.000000,44,,,,,,dale carnegie,124531231,2012,BookGenre,Sbooks
